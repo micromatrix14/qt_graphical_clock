@@ -1,0 +1,15 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.12.12/5.12.12/msvc2017/bin/qmake)
+  uic main_shape.ui
+  rcc graphical_clock.qrc
+  moc clock_hands.h
+  moc clock_shape.h
+  moc main_shape.h
+  main_shape.cpp
+  clock_hands.cpp
+  clock_shape.cpp
+  main.cpp
+  qrc_graphical_clock.cpp
+  moc_clock_hands.cpp
+  moc_clock_shape.cpp
+  moc_main_shape.cpp
+  graphical_clock.vcxproj -> C:\Users\Ahmed\Documents\Github\qt_graphical_clock\Release\graphical_clock.exe

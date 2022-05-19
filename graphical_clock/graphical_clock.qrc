@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/images">
+    <file>icons8_macos_minimize_64px.png</file>
+    <file>icons8_cancel_128px.png</file>
+    <file>cloud1.jpg</file>
+    <file>cloud2.jpg</file>
+    <file>icons8_clock.ico</file>
+    <file>cloud3.jpg</file>
+    <file>icons8_speaker_200px.png</file>
+  </qresource>
+  <qresource prefix="/sounds">
+    <file>tick.wav</file>
+  </qresource>
+</RCC>
